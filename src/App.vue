@@ -33,6 +33,7 @@ import refDemo from './components/refDemo.vue'
   <classDemo/>
   <styleDemo/>
   <watchDemo/>
+  <modelDemo/>
   <refDemo/>
 
 </template>
